@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vineetsharma9252/vineetsharma9252/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vineetsharma9252/vineetsharma9252/.github/snake.yml" alt="Snake animation" />
 
 ###
